@@ -2,7 +2,6 @@ package com.example.PP_3_1_1_CRUD_App_SpringBoot.service;
 
 import com.example.PP_3_1_1_CRUD_App_SpringBoot.model.User;
 import com.example.PP_3_1_1_CRUD_App_SpringBoot.repository.UserRepository;
-import com.example.PP_3_1_1_CRUD_App_SpringBoot.repository.UserRepositoryImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
